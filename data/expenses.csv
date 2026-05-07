@@ -1,0 +1,201 @@
+Date,Category,Amount,Payment_Method,Note
+2024-01-01,Rent,4239.74,UPI,Hostel fee
+2024-01-07,Healthcare,730.63,Debit Card,Gym membership
+2024-01-13,Food,207.32,Debit Card,Coffee
+2024-01-17,Food,128.72,UPI,Coffee
+2024-01-17,Shopping,1323.26,Cash,Footwear
+2024-01-17,Entertainment,301.67,Credit Card,Gaming
+2024-01-23,Education,504.23,UPI,Exam fee
+2024-01-29,Healthcare,569.77,Debit Card,Doctor visit
+2024-01-30,Entertainment,714.61,Cash,Movie ticket
+2024-02-01,Education,2320.53,Cash,Books
+2024-02-03,Education,1729.37,Cash,Books
+2024-02-05,Transport,279.83,UPI,Ola cab
+2024-02-05,Shopping,235.43,Debit Card,Stationery
+2024-02-05,Entertainment,541.81,Credit Card,OTT subscription
+2024-02-06,Entertainment,294.93,Debit Card,OTT subscription
+2024-02-06,Entertainment,746.74,UPI,Gaming
+2024-02-06,Food,166.28,Credit Card,Coffee
+2024-02-07,Rent,4243.32,UPI,Hostel fee
+2024-02-09,Healthcare,390.02,Credit Card,Gym membership
+2024-02-10,Entertainment,706.54,Debit Card,Concert
+2024-02-11,Education,2143.43,Credit Card,Exam fee
+2024-02-11,Food,542.5,Credit Card,Coffee
+2024-02-16,Education,2945.84,Cash,Study material
+2024-02-24,Education,2901.97,Debit Card,Books
+2024-02-25,Education,1364.22,Credit Card,Study material
+2024-02-27,Shopping,2660.42,Credit Card,Footwear
+2024-02-28,Entertainment,553.34,Credit Card,OTT subscription
+2024-02-28,Rent,5841.18,UPI,PG charges
+2024-02-29,Healthcare,308.92,Credit Card,Medicine
+2024-03-02,Entertainment,505.24,Cash,Books
+2024-03-02,Food,260.55,Debit Card,Dinner outside
+2024-03-02,Utilities,391.54,Debit Card,Water bill
+2024-03-03,Food,586.04,UPI,Groceries
+2024-03-05,Rent,5008.38,UPI,PG charges
+2024-03-05,Healthcare,116.0,Cash,Gym membership
+2024-03-09,Rent,5002.73,Credit Card,PG charges
+2024-03-17,Healthcare,173.51,UPI,Medicine
+2024-03-22,Transport,171.54,Cash,Ola cab
+2024-03-24,Utilities,1081.42,Cash,Internet bill
+2024-03-24,Healthcare,206.74,Cash,Gym membership
+2024-03-26,Healthcare,1359.96,Cash,Gym membership
+2024-03-27,Transport,135.0,Credit Card,Auto rickshaw
+2024-03-30,Transport,255.51,Debit Card,Metro card
+2024-04-01,Transport,352.09,Credit Card,Metro card
+2024-04-03,Healthcare,720.81,Cash,Vitamins
+2024-04-03,Rent,3636.36,Credit Card,PG charges
+2024-04-04,Food,211.29,Debit Card,Lunch at canteen
+2024-04-07,Healthcare,365.67,Cash,Medicine
+2024-04-08,Transport,46.96,UPI,Petrol
+2024-04-08,Entertainment,475.4,UPI,Gaming
+2024-04-08,Education,2162.32,Debit Card,Books
+2024-04-11,Education,2633.34,Cash,Books
+2024-04-14,Shopping,868.32,Debit Card,Footwear
+2024-04-15,Education,1473.69,Cash,Study material
+2024-04-18,Rent,3980.54,Debit Card,PG charges
+2024-04-22,Utilities,1004.11,Debit Card,Electricity bill
+2024-04-23,Entertainment,671.61,Debit Card,Concert
+2024-04-24,Utilities,936.47,Cash,Mobile recharge
+2024-04-26,Shopping,702.44,Cash,Home decor
+2024-04-30,Healthcare,375.73,UPI,Doctor visit
+2024-05-01,Utilities,606.41,Debit Card,Internet bill
+2024-05-02,Utilities,751.99,UPI,Electricity bill
+2024-05-03,Education,1721.44,UPI,Study material
+2024-05-04,Rent,4653.8,Debit Card,Monthly rent
+2024-05-05,Transport,133.2,Debit Card,Bus pass
+2024-05-05,Education,1914.82,UPI,Books
+2024-05-06,Entertainment,144.82,Cash,Books
+2024-05-06,Entertainment,687.46,UPI,OTT subscription
+2024-05-08,Food,127.49,Cash,Dinner outside
+2024-05-15,Rent,3855.75,Debit Card,Monthly rent
+2024-05-15,Utilities,1133.26,Cash,Internet bill
+2024-05-15,Transport,359.19,UPI,Petrol
+2024-05-16,Shopping,512.35,Debit Card,Footwear
+2024-05-16,Utilities,1127.67,Debit Card,Mobile recharge
+2024-05-21,Rent,4880.25,Credit Card,PG charges
+2024-05-23,Healthcare,855.9,UPI,Medicine
+2024-05-24,Entertainment,602.33,UPI,Concert
+2024-05-26,Entertainment,400.92,Credit Card,Gaming
+2024-05-27,Utilities,273.86,Credit Card,Water bill
+2024-05-29,Healthcare,652.46,Debit Card,Vitamins
+2024-05-30,Entertainment,383.08,UPI,Concert
+2024-06-05,Entertainment,256.05,UPI,Gaming
+2024-06-05,Healthcare,384.28,UPI,Gym membership
+2024-06-07,Education,1315.46,Credit Card,Books
+2024-06-08,Food,367.17,Cash,Groceries
+2024-06-09,Food,106.07,Debit Card,Coffee
+2024-06-09,Transport,296.31,Credit Card,Metro card
+2024-06-11,Rent,5115.68,Debit Card,PG charges
+2024-06-11,Rent,5617.15,Cash,Hostel fee
+2024-06-13,Entertainment,786.54,UPI,Books
+2024-06-14,Transport,388.97,Debit Card,Metro card
+2024-06-17,Healthcare,1303.31,Credit Card,Gym membership
+2024-06-17,Education,2234.18,Credit Card,Study material
+2024-06-19,Utilities,837.11,Credit Card,Internet bill
+2024-06-19,Education,2505.59,UPI,Exam fee
+2024-06-21,Transport,64.32,Cash,Petrol
+2024-06-23,Healthcare,1239.8,Credit Card,Gym membership
+2024-06-25,Healthcare,1220.34,Debit Card,Medicine
+2024-06-30,Education,1527.76,Cash,Online course
+2024-07-02,Entertainment,577.45,Cash,Concert
+2024-07-04,Entertainment,798.13,UPI,Books
+2024-07-04,Rent,4876.23,Cash,Monthly rent
+2024-07-08,Healthcare,278.73,Credit Card,Medicine
+2024-07-12,Transport,234.26,Credit Card,Metro card
+2024-07-14,Shopping,1809.47,Credit Card,Clothes
+2024-07-15,Entertainment,699.21,Debit Card,Movie ticket
+2024-07-16,Education,1989.72,Debit Card,Exam fee
+2024-07-23,Shopping,1426.68,Debit Card,Clothes
+2024-07-24,Food,165.61,Cash,Breakfast
+2024-07-27,Shopping,1719.31,Debit Card,Clothes
+2024-07-28,Rent,5068.11,Debit Card,PG charges
+2024-07-28,Shopping,1098.96,Cash,Footwear
+2024-08-02,Entertainment,441.76,Credit Card,Gaming
+2024-08-03,Healthcare,1260.62,Debit Card,Medicine
+2024-08-08,Utilities,241.83,Credit Card,Electricity bill
+2024-08-08,Transport,381.08,Credit Card,Metro card
+2024-08-10,Utilities,933.8,Credit Card,Mobile recharge
+2024-08-11,Rent,5907.17,Debit Card,PG charges
+2024-08-14,Education,1902.27,Cash,Online course
+2024-08-14,Rent,5026.88,Debit Card,Hostel fee
+2024-08-17,Healthcare,1223.67,Cash,Doctor visit
+2024-08-18,Rent,3892.06,Debit Card,PG charges
+2024-08-20,Shopping,655.43,Credit Card,Footwear
+2024-08-20,Food,575.98,Credit Card,Coffee
+2024-08-22,Transport,57.11,UPI,Metro card
+2024-08-24,Utilities,250.28,Debit Card,Water bill
+2024-08-24,Healthcare,716.38,Cash,Vitamins
+2024-08-25,Education,1340.99,Debit Card,Exam fee
+2024-08-26,Education,2564.34,Credit Card,Exam fee
+2024-08-27,Utilities,1180.72,Cash,Mobile recharge
+2024-08-30,Education,976.02,Cash,Study material
+2024-08-31,Rent,3777.57,UPI,Hostel fee
+2024-09-01,Food,570.23,Credit Card,Breakfast
+2024-09-04,Shopping,1130.83,Debit Card,Stationery
+2024-09-05,Transport,391.85,UPI,Bus pass
+2024-09-05,Food,282.21,Debit Card,Groceries
+2024-09-09,Transport,309.64,Cash,Bus pass
+2024-09-14,Shopping,2635.16,Debit Card,Clothes
+2024-09-15,Rent,3753.36,Cash,Monthly rent
+2024-09-22,Rent,5748.22,UPI,Hostel fee
+2024-09-26,Rent,3046.04,UPI,PG charges
+2024-09-27,Education,2910.91,UPI,Exam fee
+2024-09-28,Food,391.45,Debit Card,Lunch at canteen
+2024-09-28,Utilities,256.88,Cash,Internet bill
+2024-09-30,Entertainment,214.38,Debit Card,Concert
+2024-10-03,Utilities,923.35,Debit Card,Internet bill
+2024-10-03,Transport,81.2,UPI,Ola cab
+2024-10-03,Food,599.95,Credit Card,Groceries
+2024-10-08,Transport,48.72,Cash,Auto rickshaw
+2024-10-08,Shopping,1185.07,Debit Card,Electronics
+2024-10-08,Food,316.51,Credit Card,Dinner outside
+2024-10-10,Food,433.75,Cash,Coffee
+2024-10-10,Entertainment,511.91,Cash,Movie ticket
+2024-10-12,Entertainment,742.23,Cash,Gaming
+2024-10-12,Education,2015.79,UPI,Study material
+2024-10-13,Education,2934.59,UPI,Books
+2024-10-14,Healthcare,1133.17,Debit Card,Vitamins
+2024-10-17,Shopping,795.35,Debit Card,Stationery
+2024-10-18,Food,397.01,Cash,Groceries
+2024-10-18,Healthcare,686.77,Debit Card,Gym membership
+2024-10-21,Education,1491.64,UPI,Online course
+2024-10-22,Food,476.82,UPI,Breakfast
+2024-10-27,Rent,5595.78,Debit Card,Hostel fee
+2024-10-28,Healthcare,1471.74,UPI,Gym membership
+2024-10-30,Food,123.65,Debit Card,Groceries
+2024-10-30,Entertainment,171.33,Credit Card,Books
+2024-11-02,Utilities,1064.03,Credit Card,Mobile recharge
+2024-11-04,Food,371.85,Debit Card,Groceries
+2024-11-06,Transport,172.52,UPI,Petrol
+2024-11-07,Entertainment,206.99,UPI,Books
+2024-11-09,Education,2576.42,Debit Card,Books
+2024-11-11,Healthcare,638.81,Cash,Gym membership
+2024-11-15,Education,2124.59,Credit Card,Study material
+2024-11-16,Entertainment,285.25,Cash,OTT subscription
+2024-11-17,Utilities,992.08,Debit Card,Electricity bill
+2024-11-20,Education,2573.37,Cash,Online course
+2024-11-23,Transport,39.25,Credit Card,Bus pass
+2024-11-23,Entertainment,579.23,Cash,OTT subscription
+2024-11-23,Education,2225.78,Debit Card,Exam fee
+2024-11-24,Education,2198.8,Credit Card,Online course
+2024-11-25,Rent,3428.61,UPI,Monthly rent
+2024-11-26,Rent,4344.52,Cash,Monthly rent
+2024-11-28,Transport,319.06,Cash,Auto rickshaw
+2024-12-01,Food,544.18,Cash,Breakfast
+2024-12-01,Utilities,274.83,Credit Card,Water bill
+2024-12-03,Rent,5840.55,UPI,PG charges
+2024-12-05,Shopping,1525.13,Credit Card,Stationery
+2024-12-05,Utilities,695.33,Cash,Internet bill
+2024-12-07,Healthcare,1401.05,Cash,Doctor visit
+2024-12-09,Healthcare,1067.64,Cash,Doctor visit
+2024-12-09,Healthcare,712.98,Cash,Medicine
+2024-12-15,Entertainment,448.37,UPI,OTT subscription
+2024-12-19,Utilities,745.59,Credit Card,Internet bill
+2024-12-21,Utilities,906.42,Cash,Mobile recharge
+2024-12-22,Education,1735.94,UPI,Books
+2024-12-23,Education,1350.63,UPI,Books
+2024-12-23,Utilities,837.87,Debit Card,Electricity bill
+2024-12-24,Healthcare,1162.0,UPI,Medicine
+2024-12-24,Education,2856.69,Debit Card,Study material
+2024-12-28,Food,199.05,Cash,Dinner outside
