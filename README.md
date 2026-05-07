@@ -208,16 +208,13 @@ Opens automatically at **http://localhost:8501** 🚀
 ## 🖼️ Screenshots
 
 ### 💎 Full Dashboard
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/dashboard.png)
 
 ### 📊 Category-wise Spending
-![Category Chart](images/category_bar.png)
-
-### 📈 Monthly Spending Trend
-![Monthly Trend](images/monthly_trend.png)
+![Category Chart](images/analysis.png)
 
 ### 💳 Payment Method Distribution
-![Payment Pie](images/payment_pie.png)
+![Payment Pie](images/records.png)
 
 ---
 
@@ -259,4 +256,15 @@ Opens automatically at **http://localhost:8501** 🚀
 | Day 6 | Premium Streamlit dashboard + documentation |
 
 ---
+## 👤 Author
+
+ Tanishq Jakate
+🔗 [LinkedIn](linkedin.com/in/tanishq-jakate-93617a402) |
+    [GitHub](https://github.com/tanishqcodes10)
+
+***
+
+***
+
+## ⭐ If this helped you, please give it a star!
 
