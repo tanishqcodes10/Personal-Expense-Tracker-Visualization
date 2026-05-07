@@ -219,9 +219,6 @@ Opens automatically at **http://localhost:8501** 🚀
 ### 💳 Payment Method Distribution
 ![Payment Pie](images/payment_pie.png)
 
-### 📆 Daily Spending Trend
-![Daily Trend](images/daily_trend.png)
-
 ---
 
 ## 📚 Documentation
